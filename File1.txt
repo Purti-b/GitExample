@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 Test branch new pull, new raised PR
-=======
-
-Test branch new pull
->>>>>>> c6219faf6c35bf578214976c4efd442216786ec4
